@@ -53,6 +53,11 @@ The dataset used in this project contains the following columns:
 - Model performance metrics such as accuracy.
 - Example predictions for new texts.
 
+![result](https://github.com/aren-prime/CODTECH-Task2/assets/132383378/ef0733de-1f56-4424-8eb8-355197312a07)
+![pipeline](https://github.com/aren-prime/CODTECH-Task2/assets/132383378/e06d0b3c-ec68-4eda-ac3e-e2a172c519a7)
+![confusion matrix](https://github.com/aren-prime/CODTECH-Task2/assets/132383378/ea4f3573-710f-4564-9248-1a3c2bdbade2)
+
+
 ## Conclusion
 
 This project demonstrates the use of natural language processing techniques for sentiment analysis of tweets. The visualizations and performance metrics provide insights into the model's accuracy and areas for improvement.
